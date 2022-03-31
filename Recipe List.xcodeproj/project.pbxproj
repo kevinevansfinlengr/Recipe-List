@@ -86,9 +86,9 @@
 		08CC58CB27E42DAE0036D433 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				083D038127F08F820069115F /* RecipeTabView.swift */,
 				08CC58BF27E42D0B0036D433 /* RecipeListView.swift */,
 				08CDB21527ED447B00A2A5B2 /* RecipeDetailView.swift */,
-				083D038127F08F820069115F /* RecipeTabView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";

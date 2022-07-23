@@ -173,5 +173,25 @@
             "Place small piece of potato skin inside the bottom of each larger potato shell. Fill each potato with an equal amount of cheese mixture. Gently press the surface of the filling with a fork to create texture. Brush tops with melted butter and sprinkle with paprika.",
             "Bake stuffed potatoes until golden brown on top, 20 to 30 minutes."
         ]
+    },
+    {
+        "name": "Peanut Butter and Jelly",
+        "featured": true,
+        "image": "pbj",
+        "description": "All American Classic",
+        "prepTime": "3 minutes",
+        "cookTime": "1 minute",
+        "totalTime": "4 minutes",
+        "servings": 1,
+        "ingredients": [
+            "1 part peanut butter",
+            "1 part jelly",
+            "bread"
+        ],
+        "directions": [
+            "peanut butter up one side of bread",
+            "jelly up another slice",
+            "put those slices together baby"
+        ]
     }
 ]

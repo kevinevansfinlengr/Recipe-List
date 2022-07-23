@@ -176,7 +176,7 @@
     },
     {
         "name": "Peanut Butter and Jelly",
-        "featured": true,
+        "featured": false,
         "image": "pbj",
         "description": "All American Classic",
         "prepTime": "3 minutes",
